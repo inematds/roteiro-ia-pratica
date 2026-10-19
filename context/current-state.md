@@ -1,18 +1,12 @@
 # Estado em 19/10/2026
 
-- Download 1080p e transcrição Whisper large-v3 completos (484 segmentos); folha visual da fonte conferida.
-- Análise, glossário, catálogo de recursos, seis modelos de prática e avaliador Python criados.
-- Quatro testes do avaliador passaram.
-- Guia e README PT/EN/ES escritos; capa e banners ainda pendentes.
-- Explicativo: 582 palavras, cerca de 3,9 min estimados, storyboard preparado.
-- Reel: ficha r7ex validada, 7 partes e 599 caracteres; canal lives11 configurado.
-- Nenhum avatar submetido e nenhum vídeo renderizado ou publicado.
-- Autorização de API local inemaimg e upload YouTube solicitada na conversa, sem resposta até este registro.
-- HeyGen exige aprovação da produção com roteiro concreto: ainda não recebida.
+- Base analisada, recursos e avaliador publicados; quatro testes passam.
+- Guia PT/EN/ES com seis banners e capa FLUX.2-klein local. QA de seis layouts (360/1440 px), imagens carregadas, sem overflow. Pages 200.
+- Usuário respondeu “pode fazer”: roteiro e HeyGen estúdio aprovados, APIs inemaimg e upload YouTube autorizadas para esta tarefa; Telegram INEMA.IA CONCEITOS confirmado.
+- Telegram publicado e relido: https://t.me/c/2238677701/6105, MENU 6120.
+- Portal commit 3730e97, busca 4338dac (remote inemabuscas), PRO 0dd2ede enviados ao remoto. Portal: 13 testes + build webpack + tsc; content-base: 41 testes.
+- HeyGen submetido: explicativo 5286308e9aec4ae4a9c252a144a364cb; r7ex 1f217be8275c46ba8ddb29379d7b1dd2. Ambos pending na última consulta; não reenviar geração.
+- Download, render v1, assembly e montagem v2 aguardam em processos supervisionados com timeout. Visual v2 autoral validado. Avatar r7ex retomado com CS_WHISPER_RESIDENTE=0 (transcrição CLI local).
+- Falta concluir e revisar os dois vídeos, disponibilizar player/release, publicar lives11 e enviar MP4 ao v3. Reel deve passar pela fila r7ex, que contém outros itens; não disparar itens alheios.
 
-Arquivos de mídia e ficha operacional: /home/nmaldaner/projetos/output/explica-KjKlBvX9G7w/.
-
-Repositório público criado: https://github.com/inematds/roteiro-ia-pratica . Commit inicial 48b2da0 enviado ao origin.
-GitHub Pages via Actions: run 39195008065 concluído com sucesso. Guia textual PT/EN/ES publicado; capa/banners pendentes.
-QA navegador: 360 e 1440 px nos 3 idiomas, sem overflow ou placeholders; tema persiste.
-Telegram: INEMA.AI não consta no cadastro local; INEMA.IA CONCEITOS existe. Confirmar destino antes do envio.
+Artefatos: /home/nmaldaner/projetos/output/explica-KjKlBvX9G7w/.

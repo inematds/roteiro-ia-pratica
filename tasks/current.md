@@ -1,13 +1,10 @@
 # Entregas
-- [x] Análise integral com tempos e ressalvas
-- [x] Base de conhecimento e recursos práticos
-- [x] Guia textual PT/EN/ES e repositório remoto (HTTP 200 nos três)
-- [ ] Capa e banners do guia
-- [x] Roteiro e storyboard explicativo
-- [x] Ficha r7ex validada
-- [ ] Avatares, render e QA dos dois vídeos
-- [ ] Publicações lives11, INEMA.AI, portal e entrega v3
-
-HeyGen: preparar roteiros antes de pedir aprovação exigida pelo playbook. Upload YouTube por API depende de autorização expressa dessa API; Telegram e GitHub já autorizados.
-
-Telegram: confirmar destino, pois INEMA.AI não consta no cadastro local; existe INEMA.IA CONCEITOS.
+- [x] Análise e recursos, repo e guia PT/EN/ES
+- [x] Capa e seis banners; QA responsivo e testes do avaliador
+- [x] Telegram e MENU publicados, readback conferido
+- [x] Portal, busca e PRO: testes e pushes
+- [x] Roteiros aprovados e avatares submetidos pelo estúdio
+- [ ] Download, render v1/v2 e QA explicativo
+- [ ] Avatar, render e QA r7ex
+- [ ] Player/release e catálogo de vídeos no portal
+- [ ] lives11 e MP4s no v3
