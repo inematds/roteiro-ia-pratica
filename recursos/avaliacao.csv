@@ -1,0 +1,6 @@
+caso,tipo,tempo_manual_min,tempo_ia_min,revisao_min,correcao_min,fatos_corretos_0_1,completo_0_1,formato_correto_0_1,observacoes
+1,tipico,,,,,,,,
+2,tipico,,,,,,,,
+3,incompleto,,,,,,,,
+4,ambiguo,,,,,,,,
+5,fora_do_escopo,,,,,,,,

@@ -1,0 +1,82 @@
+slug: ia-metodo-pratica
+tema: 'IA na prática: pare de colecionar ferramentas'
+plano:
+  pessoa: público geral que testa IA mas não consegue aplicá-la ao trabalho
+  quer: transformar uma tarefa repetitiva em uma melhoria verificável
+  gancho: 'provocação hipotética: você pode testar vinte ferramentas e não resolver
+    uma tarefa; vinte é exemplo retórico, não estatística'
+  nota: 8
+  destino: https://inematds.github.io/roteiro-ia-pratica/guia/
+marca: INEMA · IA NA PRÁTICA
+selo: COMECE AQUI
+fonte: <b>IA na prática</b> · roteiro educativo · vinte ferramentas é exemplo hipotético
+abertura:
+  branco: VINTE FERRAMENTAS
+  destaque: NENHUMA TAREFA?
+  cor: amarelo
+  cena: mesa escura com muitos dispositivos genéricos e uma folha de tarefa vazia,
+    pessoa adulta vista de costas, luz neutra com detalhe amarelo, sem logos
+trocas:
+  vinte ferramentas: 20 ferramentas
+  três passos: 3 passos
+partes:
+- etapa: gancho
+  fala: Você pode testar vinte ferramentas de IA e continuar sem resolver uma tarefa.
+    O problema pode ser a falta de um método.
+- etapa: medo
+  fala: Se a resposta vem errada e você precisa refazer tudo, o tempo que parecia
+    economizado desaparece.
+  imagem: pilha de papéis refeitos numa mesa preta, caneta vermelha e relógio, luz
+    neutra
+  painel:
+    k: CONTA O TRABALHO TODO
+    borda: red
+    itens:
+    - - errada
+      - ⚠️ resposta errada
+    - - refazer
+      - ↩️ retrabalho
+- etapa: desejo
+  fala: Imagine terminar uma tarefa com menos esforço e saber conferir o resultado.
+  imagem: mesa organizada com uma lista marcada, luz neutra e acento amarelo
+- etapa: facilidade
+  fala: Comece pequeno, com uma atividade que você já conhece. Não precisa programar.
+  imagem: mão escolhendo uma única ficha numa mesa de trabalho simples, luz neutra
+- etapa: descoberta
+  fala: 'São três passos: escolher a tarefa, testar um pedido claro e conferir o que
+    saiu.'
+  imagem: 'três objetos sobre mesa escura: uma ficha, um balão de conversa em acrílico
+    e uma lupa com detalhe amarelo'
+  painel:
+    k: 3 PASSOS
+    borda: vd
+    itens:
+    - - escolher
+      - 🎯 escolher a tarefa
+    - - testar
+      - 🧪 testar um pedido
+    - - conferir
+      - ✅ conferir o resultado
+- etapa: beneficio
+  fala: Meça também o tempo de revisão. Só automatize depois de comprovar que ajuda.
+  imagem: cronômetro e checklist com marca de aprovação, fundo escuro e luz neutra
+- etapa: comentario
+  fala: Tá tudo no inema ponto club. Ou me pede o link aqui nos comentários.
+  print:
+    url: https://inematds.github.io/roteiro-ia-pratica/guia/
+    selo: Guia IA na prática
+cta:
+  a: QUAL TAREFA VOCÊ QUER RESOLVER? 👇
+  b: me pede o link aqui nos comentários
+club: modelo de pedido, diagnóstico e planilha
+cores:
+  errada: '#ff2a1f'
+  refazer: '#ff2a1f'
+  conferir: '#FACC15'
+  revisão: '#FACC15'
+publicar:
+  fila: lives11
+  titulo: 'Testou 20 ferramentas de IA e não resolveu uma tarefa? #shorts'
+  contexto: 'Reel educativo autoral do INEMA. Vinte ferramentas é exemplo hipotético,
+    não estatística. Três passos: tarefa, pedido claro e verificação. Recursos abertos
+    no inema.club. Destino solicitado: lives11.'

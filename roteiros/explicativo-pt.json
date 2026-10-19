@@ -1,0 +1,102 @@
+[
+  {
+    "chapter": "1",
+    "title": "Pare de colecionar ferramentas",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Pare de colecionar ferramentas",
+    "source": "",
+    "speech": "Você pode conhecer vinte ferramentas de inteligência artificial e continuar sem resolver uma única tarefa do seu trabalho. O que falta muitas vezes não é mais uma assinatura. É um caminho. Neste vídeo, eu vou explicar as peças desse caminho e mostrar como transformar uma tarefa pequena em um teste de verdade. No fim, você vai saber o que medir antes de automatizar.",
+    "svg": null
+  },
+  {
+    "chapter": "2",
+    "title": "Entenda as peças",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Entenda as peças",
+    "source": "",
+    "speech": "Primeiro, separe modelo, aplicativo e processo. O modelo é o componente que produz respostas. O aplicativo oferece a interface e pode acrescentar busca, arquivos e outras funções. O processo é o trabalho que você quer realizar. Quando essas três coisas se misturam na sua cabeça, você acaba escolhendo a ferramenta antes de entender a necessidade.",
+    "svg": null
+  },
+  {
+    "chapter": "3",
+    "title": "Como um modelo responde",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Como um modelo responde",
+    "source": "",
+    "speech": "Os modelos de linguagem trabalham com unidades chamadas tokens. Elas podem representar palavras, pedaços de palavras ou símbolos. Durante o treinamento, o modelo ajusta parâmetros a partir de exemplos. Quando você faz uma pergunta, ele usa esses parâmetros e o contexto disponível para produzir uma resposta. Isso pode gerar resultados muito úteis. Mas uma resposta convincente também pode conter erros.",
+    "svg": null
+  },
+  {
+    "chapter": "4",
+    "title": "O mapa por trás da conversa",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "O mapa por trás da conversa",
+    "source": "",
+    "speech": "Por trás da conversa existe uma cadeia: energia, chips, centros de dados, modelos e aplicações. Entender esse mapa ajuda a acompanhar o assunto, mas você não precisa construir toda essa infraestrutura para começar. Para a primeira experiência, concentre sua atenção em uma tarefa que você conhece e cujo resultado consegue conferir.",
+    "svg": null
+  },
+  {
+    "chapter": "5",
+    "title": "Escolha uma tarefa real",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Escolha uma tarefa real",
+    "source": "",
+    "speech": "Pense em algo repetitivo. Por exemplo, transformar notas de reunião em decisões, responsáveis e prazos. Faça uma vez do jeito manual e registre o tempo. Depois use um assistente com dados fictícios ou autorizados. Se o prazo não estiver nas notas, a resposta correta é dizer que ele não foi informado. Inventar uma data é falhar, mesmo que a tabela esteja bonita.",
+    "svg": null
+  },
+  {
+    "chapter": "6",
+    "title": "Faça um pedido verificável",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Faça um pedido verificável",
+    "source": "",
+    "speech": "Um bom pedido explica o objetivo, oferece o contexto necessário, define o formato e diz como o resultado será avaliado. Você pode pedir uma tabela com três campos, indicar o material de referência e exigir que informações ausentes sejam marcadas. Isso reduz ambiguidades. Não é uma fórmula mágica: a revisão continua fazendo parte do trabalho.",
+    "svg": null
+  },
+  {
+    "chapter": "7",
+    "title": "Antes de criar um agente",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Antes de criar um agente",
+    "source": "",
+    "speech": "Nem toda tarefa precisa de um agente. Às vezes uma conversa resolve. Às vezes você precisa de um fluxo com etapas definidas. Um agente entra quando o sistema participa da escolha das próximas ações e ferramentas. Quanto mais liberdade para agir, mais importante fica definir limites, acompanhar o que aconteceu e testar casos diferentes. Comece com a menor solução que entrega o resultado.",
+    "svg": null
+  },
+  {
+    "chapter": "8",
+    "title": "Meça o trabalho inteiro",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Meça o trabalho inteiro",
+    "source": "",
+    "speech": "Agora compare. Não conte apenas os segundos que a resposta levou para aparecer. Some o tempo de preparar o pedido, revisar e corrigir. Teste exemplos comuns, incompletos e ambíguos. Se a qualidade cair ou a correção consumir o ganho, ajuste o processo. Descobrir que uma automação não compensa também é um resultado útil.",
+    "svg": null
+  },
+  {
+    "chapter": "9",
+    "title": "Valor antes da promessa",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Valor antes da promessa",
+    "source": "",
+    "speech": "Quando alguém fala em ganhar dinheiro com inteligência artificial, volte ao problema concreto. Quem precisa do resultado? Como faz hoje? O que melhora? A tecnologia pode ajudar a entregar valor, mas não substitui conhecer o usuário, combinar expectativas e demonstrar que o trabalho funciona. Previsões sobre o futuro não são garantia de renda no presente.",
+    "svg": null
+  },
+  {
+    "chapter": "10",
+    "title": "Comece pelo primeiro teste",
+    "kind": "explain",
+    "labels": [],
+    "takeaway": "Comece pelo primeiro teste",
+    "source": "",
+    "speech": "Nós organizamos um glossário, um modelo de pedido, uma ficha de diagnóstico e uma planilha para avaliar o seu piloto. Tem também uma proposta de prática em sete dias. Não para virar especialista em uma semana, mas para sair da teoria com algo que você consegue conferir. Está tudo no inema ponto club. Escolha uma tarefa, faça o teste e me conte o que mudou.",
+    "svg": null
+  }
+]
