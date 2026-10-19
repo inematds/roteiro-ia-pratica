@@ -11,3 +11,8 @@
 - HeyGen exige aprovação da produção com roteiro concreto: ainda não recebida.
 
 Arquivos de mídia e ficha operacional: /home/nmaldaner/projetos/output/explica-KjKlBvX9G7w/.
+
+Repositório público criado: https://github.com/inematds/roteiro-ia-pratica . Commit inicial 48b2da0 enviado ao origin.
+GitHub Pages via Actions: run 39195008065 concluído com sucesso. Guia textual PT/EN/ES publicado; capa/banners pendentes.
+QA navegador: 360 e 1440 px nos 3 idiomas, sem overflow ou placeholders; tema persiste.
+Telegram: INEMA.AI não consta no cadastro local; INEMA.IA CONCEITOS existe. Confirmar destino antes do envio.

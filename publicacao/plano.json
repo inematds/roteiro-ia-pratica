@@ -1,0 +1,22 @@
+{
+  "projeto": "roteiro-ia-pratica",
+  "repo": "https://github.com/inematds/roteiro-ia-pratica",
+  "guia": "https://inematds.github.io/roteiro-ia-pratica/guia/",
+  "telegram": {
+    "grupo": "INEMA.AI",
+    "titulo": "IA na prática - Da ferramenta ao primeiro resultado",
+    "texto_local": "/home/nmaldaner/projetos/output/posts-telegram/2026-10-19-roteiro-ia-pratica.md",
+    "estado": "rascunho, aguardando capa"
+  },
+  "videos": {
+    "canal": "lives11",
+    "entrega": "bot v3, arquivos sem links na legenda",
+    "estado": "roteiros preparados; avatares e renders pendentes"
+  },
+  "portal": {
+    "title": "Roteiro IA na prática",
+    "description": "Base de conhecimento com análise crítica, glossário e recursos para planejar, testar e avaliar aplicações de IA.",
+    "category": "Inteligência Artificial",
+    "estado": "aguardando capa e publicação do guia"
+  }
+}
