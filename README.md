@@ -1,5 +1,7 @@
 # Roteiro IA na prática
 
+[![Roteiro IA na prática](guia/assets/banner.jpg)](https://inematds.github.io/roteiro-ia-pratica/guia/)
+
 **[Português](README.md) · [English](README.en.md) · [Español](README.es.md)**
 
 ## O que é

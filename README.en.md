@@ -1,5 +1,7 @@
 # AI in practice: a roadmap
 
+[![AI in Practice Roadmap](guia/assets/banner-en.jpg)](https://inematds.github.io/roteiro-ia-pratica/guia/en/)
+
 **[Português](README.md) · [English](README.en.md) · [Español](README.es.md)**
 
 ## About

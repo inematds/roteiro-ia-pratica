@@ -1,5 +1,7 @@
 # IA en la práctica: hoja de ruta
 
+[![Hoja de ruta IA en la práctica](guia/assets/banner-es.jpg)](https://inematds.github.io/roteiro-ia-pratica/guia/es/)
+
 **[Português](README.md) · [English](README.en.md) · [Español](README.es.md)**
 
 ## Qué es
