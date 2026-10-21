@@ -10,3 +10,9 @@
 - Falta concluir e revisar os dois vídeos, disponibilizar player/release, publicar lives11 e enviar MP4 ao v3. Reel deve passar pela fila r7ex, que contém outros itens; não disparar itens alheios.
 
 Artefatos: /home/nmaldaner/projetos/output/explica-KjKlBvX9G7w/.
+
+## Execução sem terminal
+Serviços systemd de usuário ia-pratica-explicativo.service e ia-pratica-r7ex.service ativos, Linger=yes; download e montagem seguem sem o Codex aberto. Computador deve permanecer ligado e sem suspender. Publicação/revisão não automatizadas. Estado e logs em output/explica-KjKlBvX9G7w/RETOMADA.json e media/servico-*.log.
+
+## 21/10/2026
+Explicativo refeito com diagramas animados (cenas 2–9) e imagem de impacto na abertura de cada tópico; 16:9 e 9:16 publicados no lives3, enviados ao v3 e postados no INEMA.DEV (ver publicacao/STATUS.md). Falta: r7ex, player/release e catálogo de vídeos no portal.

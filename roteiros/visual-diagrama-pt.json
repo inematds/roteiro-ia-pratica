@@ -1,0 +1,1210 @@
+{
+ "block": "pt-b01",
+ "scenes": {
+  "1": {
+   "header": false,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "@start",
+     "text": "IA que **resolve tarefas**",
+     "src": "/home/nmaldaner/projetos/output/explica-KjKlBvX9G7w/media/hero.png"
+    },
+    {
+     "type": "keyword",
+     "at": "O que falta",
+     "text": "Mais ferramenta?",
+     "sub": "Primeiro, um caminho."
+    },
+    {
+     "type": "bullets",
+     "at": "Neste vídeo",
+     "title": "O QUE VOCÊ VAI LEVAR",
+     "items": [
+      {
+       "text": "1 · Entenda as peças",
+       "at": "as peças"
+      },
+      {
+       "text": "2 · Faça um teste",
+       "at": "uma tarefa pequena"
+      },
+      {
+       "text": "3 · Saiba o que medir",
+       "at": "No fim"
+      }
+     ],
+     "layout": "column"
+    }
+   ]
+  },
+  "2": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Primeiro",
+     "kicker": "PARTE 1 DE 8",
+     "text": "Entenda as peças",
+     "src": "media/topicos/t2.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "O modelo é",
+     "nos": [
+      {
+       "id": "proc",
+       "label": "PROCESSO",
+       "icon": "target",
+       "sub": "o trabalho a fazer",
+       "x": 0.13,
+       "y": 0.5,
+       "at": "O processo é"
+      },
+      {
+       "id": "app",
+       "label": "APLICATIVO",
+       "icon": "chat",
+       "sub": "interface, busca, arquivos",
+       "x": 0.5,
+       "y": 0.5,
+       "at": "O aplicativo oferece"
+      },
+      {
+       "id": "mod",
+       "label": "MODELO",
+       "icon": "ai",
+       "forma": "nucleo",
+       "x": 0.87,
+       "y": 0.5,
+       "at": "O modelo é"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "proc",
+       "para": "app",
+       "at": "O processo é"
+      },
+      {
+       "de": "app",
+       "para": "mod",
+       "at": "O aplicativo oferece"
+      }
+     ],
+     "passos": [
+      {
+       "at": "componente que produz",
+       "foco": "mod",
+       "nota": {
+        "no": "mod",
+        "texto": "produz as **respostas**",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "O aplicativo oferece",
+       "foco": "app",
+       "nota": {
+        "no": "app",
+        "texto": "a **tela** + busca, arquivos, funções",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "O processo é",
+       "foco": "proc",
+       "nota": {
+        "no": "proc",
+        "texto": "o **trabalho** que você quer",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "você quer realizar",
+       "foco": "todos",
+       "pacote": {
+        "de": "proc",
+        "para": "app",
+        "texto": "tarefa"
+       }
+      },
+      {
+       "at": "se misturam",
+       "estado": {
+        "app": "erro"
+       },
+       "nota": {
+        "no": "app",
+        "texto": "escolher a **ferramenta** primeiro",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "entender a necessidade",
+       "estado": {
+        "proc": "ok",
+        "app": "normal"
+       },
+       "nota": {
+        "no": "proc",
+        "texto": "comece pela **necessidade**",
+        "lado": "cima"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "3": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Os modelos",
+     "kicker": "PARTE 2 DE 8",
+     "text": "Como um modelo responde",
+     "src": "media/topicos/t3.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "Elas podem representar",
+     "nos": [
+      {
+       "id": "ex",
+       "label": "EXEMPLOS",
+       "icon": "book",
+       "sub": "treinamento",
+       "x": 0.14,
+       "y": 0.18,
+       "at": "Durante o treinamento"
+      },
+      {
+       "id": "mod",
+       "label": "MODELO",
+       "icon": "ai",
+       "forma": "nucleo",
+       "x": 0.5,
+       "y": 0.5,
+       "at": "Elas podem representar"
+      },
+      {
+       "id": "q",
+       "label": "PERGUNTA",
+       "icon": "user",
+       "sub": "+ contexto",
+       "x": 0.14,
+       "y": 0.84,
+       "at": "faz uma pergunta"
+      },
+      {
+       "id": "r",
+       "label": "RESPOSTA",
+       "icon": "doc",
+       "x": 0.86,
+       "y": 0.5,
+       "at": "para produzir"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "ex",
+       "para": "mod",
+       "at": "ajusta parâmetros",
+       "label": "ajusta parâmetros",
+       "curva": 0.25
+      },
+      {
+       "de": "q",
+       "para": "mod",
+       "at": "faz uma pergunta",
+       "curva": -0.25
+      },
+      {
+       "de": "mod",
+       "para": "r",
+       "at": "para produzir"
+      }
+     ],
+     "passos": [
+      {
+       "at": "Elas podem representar",
+       "foco": "mod",
+       "nota": {
+        "no": "mod",
+        "texto": "pensa em **tokens**: pala · vras · #",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "Durante o treinamento",
+       "foco": "todos"
+      },
+      {
+       "at": "a partir de exemplos",
+       "pacote": {
+        "de": "ex",
+        "para": "mod",
+        "texto": "exemplos"
+       },
+       "estado": {
+        "mod": "ativo"
+       }
+      },
+      {
+       "at": "ele usa esses",
+       "pacote": {
+        "de": "q",
+        "para": "mod",
+        "texto": "pergunta"
+       }
+      },
+      {
+       "at": "uma resposta",
+       "pacote": {
+        "de": "mod",
+        "para": "r",
+        "texto": "tokens"
+       }
+      },
+      {
+       "at": "muito úteis",
+       "estado": {
+        "r": "ok"
+       }
+      },
+      {
+       "at": "também pode conter",
+       "estado": {
+        "r": "erro"
+       },
+       "nota": {
+        "no": "r",
+        "texto": "convincente ≠ **correto**: confira",
+        "lado": "cima"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "4": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Por trás",
+     "kicker": "PARTE 3 DE 8",
+     "text": "O mapa por trás da conversa",
+     "src": "media/topicos/t4.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "energia",
+     "nos": [
+      {
+       "id": "ene",
+       "label": "ENERGIA E CHIPS",
+       "icon": "cpu",
+       "x": 0.15,
+       "y": 0.22,
+       "at": "energia"
+      },
+      {
+       "id": "dc",
+       "label": "CENTROS DE DADOS",
+       "icon": "server",
+       "x": 0.38,
+       "y": 0.78,
+       "at": "centros de dados"
+      },
+      {
+       "id": "mod",
+       "label": "MODELOS",
+       "icon": "ai",
+       "x": 0.62,
+       "y": 0.22,
+       "at": "modelos e"
+      },
+      {
+       "id": "app",
+       "label": "APLICAÇÕES",
+       "icon": "chat",
+       "x": 0.85,
+       "y": 0.78,
+       "at": "aplicações"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "ene",
+       "para": "dc",
+       "at": "centros de dados"
+      },
+      {
+       "de": "dc",
+       "para": "mod",
+       "at": "modelos e"
+      },
+      {
+       "de": "mod",
+       "para": "app",
+       "at": "aplicações"
+      }
+     ],
+     "passos": [
+      {
+       "at": "Entender esse mapa",
+       "foco": "todos",
+       "pacote": {
+        "de": "ene",
+        "para": "dc",
+        "texto": "energia"
+       }
+      },
+      {
+       "at": "acompanhar o assunto",
+       "pacote": {
+        "de": "mod",
+        "para": "app",
+        "texto": "respostas"
+       }
+      },
+      {
+       "at": "não precisa construir",
+       "foco": [
+        "ene",
+        "dc",
+        "mod"
+       ],
+       "nota": {
+        "no": "dc",
+        "texto": "infraestrutura: você **não** precisa construir",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "Para a primeira",
+       "foco": "app"
+      },
+      {
+       "at": "uma tarefa que você conhece",
+       "troca": {
+        "no": "app",
+        "label": "SUA TAREFA"
+       },
+       "estado": {
+        "app": "ok"
+       }
+      },
+      {
+       "at": "consegue conferir",
+       "nota": {
+        "no": "app",
+        "texto": "que você **conhece** e consegue **conferir**",
+        "lado": "cima"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "5": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Pense",
+     "kicker": "PARTE 4 DE 8",
+     "text": "Escolha uma tarefa real",
+     "src": "media/topicos/t5.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "Por exemplo",
+     "nos": [
+      {
+       "id": "notas",
+       "label": "NOTAS",
+       "icon": "doc",
+       "sub": "da reunião",
+       "x": 0.12,
+       "y": 0.5,
+       "at": "notas de reunião"
+      },
+      {
+       "id": "tab",
+       "label": "TABELA",
+       "icon": "list",
+       "sub": "decisão · dono · prazo",
+       "x": 0.88,
+       "y": 0.5,
+       "at": "em decisões"
+      },
+      {
+       "id": "voce",
+       "label": "VOCÊ",
+       "icon": "user",
+       "sub": "do jeito manual",
+       "x": 0.42,
+       "y": 0.15,
+       "at": "Faça uma vez"
+      },
+      {
+       "id": "ia",
+       "label": "ASSISTENTE",
+       "icon": "ai",
+       "forma": "nucleo",
+       "x": 0.5,
+       "y": 0.8,
+       "at": "Depois use"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "notas",
+       "para": "tab",
+       "at": "responsáveis e prazos"
+      },
+      {
+       "de": "notas",
+       "para": "voce",
+       "at": "Faça uma vez",
+       "curva": 0.2
+      },
+      {
+       "de": "voce",
+       "para": "tab",
+       "at": "do jeito manual",
+       "curva": 0.2
+      },
+      {
+       "de": "notas",
+       "para": "ia",
+       "at": "Depois use",
+       "curva": -0.2
+      },
+      {
+       "de": "ia",
+       "para": "tab",
+       "at": "um assistente",
+       "curva": -0.2
+      }
+     ],
+     "passos": [
+      {
+       "at": "responsáveis e prazos",
+       "pacote": {
+        "de": "notas",
+        "para": "tab",
+        "texto": "decisões"
+       }
+      },
+      {
+       "at": "registre o tempo",
+       "foco": "voce",
+       "nota": {
+        "no": "voce",
+        "texto": "anote o **tempo** que levou",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "dados fictícios",
+       "foco": [
+        "notas",
+        "ia"
+       ],
+       "pacote": {
+        "de": "notas",
+        "para": "ia",
+        "texto": "dados fictícios"
+       },
+       "nota": {
+        "no": "ia",
+        "texto": "dados **fictícios** ou autorizados",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "Se o prazo",
+       "foco": "todos",
+       "estado": {
+        "ia": "ativo"
+       }
+      },
+      {
+       "at": "não foi informado",
+       "pacote": {
+        "de": "ia",
+        "para": "tab",
+        "texto": "prazo: não informado"
+       },
+       "estado": {
+        "tab": "ok"
+       }
+      },
+      {
+       "at": "Inventar uma data",
+       "foco": "tab",
+       "estado": {
+        "tab": "erro"
+       },
+       "nota": {
+        "no": "tab",
+        "texto": "data inventada = **falha**",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "esteja bonita",
+       "nota": {
+        "no": "tab",
+        "texto": "mesmo com a tabela **bonita**",
+        "lado": "cima"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "6": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Um bom pedido",
+     "kicker": "PARTE 5 DE 8",
+     "text": "Faça um pedido verificável",
+     "src": "media/topicos/t6.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "oferece o contexto",
+     "nos": [
+      {
+       "id": "obj",
+       "label": "OBJETIVO",
+       "icon": "target",
+       "x": 0.1,
+       "y": 0.1,
+       "at": "oferece o contexto"
+      },
+      {
+       "id": "ctx",
+       "label": "CONTEXTO",
+       "icon": "folder",
+       "x": 0.1,
+       "y": 0.37,
+       "at": "contexto necessário"
+      },
+      {
+       "id": "fmt",
+       "label": "FORMATO",
+       "icon": "list",
+       "x": 0.1,
+       "y": 0.63,
+       "at": "define o formato"
+      },
+      {
+       "id": "crit",
+       "label": "CRITÉRIOS",
+       "icon": "check",
+       "x": 0.1,
+       "y": 0.9,
+       "at": "será avaliado"
+      },
+      {
+       "id": "ped",
+       "label": "PEDIDO",
+       "icon": "send",
+       "forma": "nucleo",
+       "x": 0.52,
+       "y": 0.5,
+       "at": "oferece o contexto"
+      },
+      {
+       "id": "res",
+       "label": "RESPOSTA",
+       "icon": "doc",
+       "x": 0.92,
+       "y": 0.5,
+       "at": "Isso reduz"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "obj",
+       "para": "ped",
+       "at": "oferece o contexto",
+       "curva": 0.15
+      },
+      {
+       "de": "ctx",
+       "para": "ped",
+       "at": "contexto necessário"
+      },
+      {
+       "de": "fmt",
+       "para": "ped",
+       "at": "define o formato"
+      },
+      {
+       "de": "crit",
+       "para": "ped",
+       "at": "será avaliado",
+       "curva": -0.15
+      },
+      {
+       "de": "ped",
+       "para": "res",
+       "at": "Isso reduz"
+      }
+     ],
+     "passos": [
+      {
+       "at": "uma tabela",
+       "foco": [
+        "fmt",
+        "ped"
+       ],
+       "nota": {
+        "no": "ped",
+        "texto": "formato: **tabela** com 3 campos",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "material de referência",
+       "foco": [
+        "ctx",
+        "ped"
+       ],
+       "nota": {
+        "no": "ped",
+        "texto": "contexto: o **material** de referência",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "informações ausentes",
+       "foco": [
+        "crit",
+        "ped"
+       ],
+       "nota": {
+        "no": "ped",
+        "texto": "faltou? **marque**, não invente",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "Isso reduz",
+       "foco": "todos",
+       "pacote": {
+        "de": "ped",
+        "para": "res",
+        "texto": "pedido claro"
+       },
+       "estado": {
+        "res": "ok"
+       }
+      },
+      {
+       "at": "fórmula mágica",
+       "foco": "res",
+       "estado": {
+        "res": "ativo"
+       },
+       "nota": {
+        "no": "res",
+        "texto": "a **revisão** continua",
+        "lado": "baixo"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "7": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Nem toda",
+     "kicker": "PARTE 6 DE 8",
+     "text": "Antes de criar um agente",
+     "src": "media/topicos/t7.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "Às vezes uma conversa",
+     "nos": [
+      {
+       "id": "conv",
+       "label": "CONVERSA",
+       "icon": "chat",
+       "x": 0.13,
+       "y": 0.7,
+       "at": "uma conversa"
+      },
+      {
+       "id": "flux",
+       "label": "FLUXO",
+       "icon": "list",
+       "sub": "etapas definidas",
+       "x": 0.5,
+       "y": 0.7,
+       "at": "um fluxo"
+      },
+      {
+       "id": "ag",
+       "label": "AGENTE",
+       "icon": "bot",
+       "sub": "escolhe ações e ferramentas",
+       "x": 0.87,
+       "y": 0.7,
+       "at": "Um agente entra"
+      },
+      {
+       "id": "lim",
+       "label": "LIMITES",
+       "icon": "shield",
+       "sub": "acompanhar · testar",
+       "x": 0.87,
+       "y": 0.12,
+       "at": "definir limites"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "conv",
+       "para": "flux",
+       "at": "um fluxo"
+      },
+      {
+       "de": "flux",
+       "para": "ag",
+       "at": "Um agente entra"
+      },
+      {
+       "de": "lim",
+       "para": "ag",
+       "at": "definir limites"
+      }
+     ],
+     "passos": [
+      {
+       "at": "conversa resolve",
+       "estado": {
+        "conv": "ok"
+       }
+      },
+      {
+       "at": "participa da escolha",
+       "foco": "ag",
+       "estado": {
+        "ag": "ativo"
+       },
+       "nota": {
+        "no": "ag",
+        "texto": "o sistema **escolhe** as próximas ações",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "Quanto mais liberdade",
+       "nota": {
+        "no": "ag",
+        "texto": "mais liberdade → mais **cuidado**",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "definir limites",
+       "foco": [
+        "ag",
+        "lim"
+       ],
+       "pacote": {
+        "de": "lim",
+        "para": "ag",
+        "texto": "regras"
+       }
+      },
+      {
+       "at": "testar casos",
+       "nota": {
+        "no": "lim",
+        "texto": "acompanhe e **teste** casos diferentes",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "Comece com",
+       "foco": "conv",
+       "estado": {
+        "conv": "ativo"
+       },
+       "nota": {
+        "no": "conv",
+        "texto": "a **menor** solução que resolve",
+        "lado": "cima"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "8": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Agora compare",
+     "kicker": "PARTE 7 DE 8",
+     "text": "Meça o trabalho inteiro",
+     "src": "media/topicos/t8.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "os segundos",
+     "nos": [
+      {
+       "id": "ger",
+       "label": "GERAR",
+       "icon": "ai",
+       "sub": "os segundos",
+       "x": 0.38,
+       "y": 0.75,
+       "at": "os segundos"
+      },
+      {
+       "id": "prep",
+       "label": "PREPARAR",
+       "icon": "pencil",
+       "x": 0.15,
+       "y": 0.25,
+       "at": "preparar o pedido"
+      },
+      {
+       "id": "rev",
+       "label": "REVISAR",
+       "icon": "eye",
+       "x": 0.62,
+       "y": 0.25,
+       "at": "revisar"
+      },
+      {
+       "id": "cor",
+       "label": "CORRIGIR",
+       "icon": "refresh",
+       "x": 0.85,
+       "y": 0.75,
+       "at": "e corrigir"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "prep",
+       "para": "ger",
+       "at": "preparar o pedido"
+      },
+      {
+       "de": "ger",
+       "para": "rev",
+       "at": "revisar"
+      },
+      {
+       "de": "rev",
+       "para": "cor",
+       "at": "e corrigir"
+      }
+     ],
+     "passos": [
+      {
+       "at": "levou para aparecer",
+       "foco": "ger",
+       "nota": {
+        "no": "ger",
+        "texto": "não conte **só** isto",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "Some o tempo",
+       "foco": "todos"
+      },
+      {
+       "at": "exemplos comuns",
+       "pacote": {
+        "de": "prep",
+        "para": "ger",
+        "texto": "comuns"
+       }
+      },
+      {
+       "at": "incompletos",
+       "pacote": {
+        "de": "ger",
+        "para": "rev",
+        "texto": "incompletos"
+       }
+      },
+      {
+       "at": "ambíguos",
+       "pacote": {
+        "de": "rev",
+        "para": "cor",
+        "texto": "ambíguos"
+       }
+      },
+      {
+       "at": "Se a qualidade",
+       "foco": "cor",
+       "estado": {
+        "cor": "erro"
+       },
+       "nota": {
+        "no": "cor",
+        "texto": "a correção **come** o ganho",
+        "lado": "cima"
+       }
+      },
+      {
+       "at": "ajuste o processo",
+       "foco": "todos",
+       "estado": {
+        "cor": "normal",
+        "prep": "ativo"
+       }
+      },
+      {
+       "at": "não compensa",
+       "foco": "ger",
+       "estado": {
+        "ger": "ok"
+       },
+       "nota": {
+        "no": "ger",
+        "texto": "não compensar também é **resultado**",
+        "lado": "cima"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "9": {
+   "takeaway": true,
+   "shots": [
+    {
+     "type": "hook",
+     "at": "Quando alguém",
+     "kicker": "PARTE 8 DE 8",
+     "text": "Valor antes da promessa",
+     "src": "media/topicos/t9.png"
+    },
+    {
+     "type": "diagrama",
+     "at": "inteligência artificial",
+     "nos": [
+      {
+       "id": "prom",
+       "label": "PROMESSA",
+       "icon": "money",
+       "sub": "ganhar com IA",
+       "x": 0.15,
+       "y": 0.15,
+       "at": "inteligência artificial"
+      },
+      {
+       "id": "prob",
+       "label": "PROBLEMA",
+       "icon": "target",
+       "forma": "nucleo",
+       "x": 0.5,
+       "y": 0.5,
+       "at": "problema concreto"
+      },
+      {
+       "id": "quem",
+       "label": "QUEM PRECISA?",
+       "icon": "user",
+       "x": 0.85,
+       "y": 0.12,
+       "at": "Quem precisa"
+      },
+      {
+       "id": "hoje",
+       "label": "COMO FAZ HOJE?",
+       "icon": "clock",
+       "x": 0.85,
+       "y": 0.5,
+       "at": "Como faz hoje"
+      },
+      {
+       "id": "melh",
+       "label": "O QUE MELHORA?",
+       "icon": "chart",
+       "x": 0.85,
+       "y": 0.88,
+       "at": "O que melhora"
+      },
+      {
+       "id": "val",
+       "label": "VALOR",
+       "icon": "check",
+       "sub": "entregue e demonstrado",
+       "x": 0.15,
+       "y": 0.6,
+       "at": "entregar valor"
+      }
+     ],
+     "ligacoes": [
+      {
+       "de": "prom",
+       "para": "prob",
+       "at": "problema concreto",
+       "label": "volte ao",
+       "curva": 0.2
+      },
+      {
+       "de": "prob",
+       "para": "quem",
+       "at": "Quem precisa"
+      },
+      {
+       "de": "prob",
+       "para": "hoje",
+       "at": "Como faz hoje"
+      },
+      {
+       "de": "prob",
+       "para": "melh",
+       "at": "O que melhora"
+      },
+      {
+       "de": "prob",
+       "para": "val",
+       "at": "entregar valor"
+      }
+     ],
+     "passos": [
+      {
+       "at": "volte ao problema",
+       "foco": [
+        "prom",
+        "prob"
+       ],
+       "estado": {
+        "prom": "ativo"
+       }
+      },
+      {
+       "at": "Quem precisa",
+       "foco": "quem"
+      },
+      {
+       "at": "Como faz hoje",
+       "foco": "hoje"
+      },
+      {
+       "at": "O que melhora",
+       "foco": "melh"
+      },
+      {
+       "at": "entregar valor",
+       "foco": "todos",
+       "pacote": {
+        "de": "prob",
+        "para": "val",
+        "texto": "valor"
+       },
+       "estado": {
+        "val": "ok",
+        "prom": "normal"
+       }
+      },
+      {
+       "at": "conhecer o usuário",
+       "foco": "val",
+       "nota": {
+        "no": "val",
+        "texto": "conhecer o **usuário** e demonstrar",
+        "lado": "baixo"
+       }
+      },
+      {
+       "at": "Previsões",
+       "foco": "prom",
+       "estado": {
+        "prom": "erro"
+       },
+       "nota": {
+        "no": "prom",
+        "texto": "previsão ≠ **renda garantida**",
+        "lado": "baixo"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "10": {
+   "shots": [
+    {
+     "type": "bullets",
+     "at": "Nós organizamos",
+     "title": "RECURSOS PARA COMEÇAR",
+     "items": [
+      {
+       "text": "Glossário",
+       "at": "glossário"
+      },
+      {
+       "text": "Modelo de pedido",
+       "at": "modelo de pedido"
+      },
+      {
+       "text": "Diagnóstico",
+       "at": "ficha de diagnóstico"
+      },
+      {
+       "text": "Planilha de avaliação",
+       "at": "planilha"
+      }
+     ],
+     "layout": "column"
+    },
+    {
+     "type": "keyword",
+     "at": "Tem também",
+     "text": "Prática em **sete dias**",
+     "sub": ""
+    },
+    {
+     "type": "statement",
+     "at": "Não para",
+     "text": "~~Especialista em uma semana~~",
+     "then": {
+      "text": "++Um teste que você consegue conferir++",
+      "at": "mas para sair"
+     }
+    },
+    {
+     "type": "keyword",
+     "at": "Está tudo",
+     "text": "inema.club",
+     "sub": "Conhecimento e recursos abertos."
+    },
+    {
+     "type": "keyword",
+     "at": "Escolha uma tarefa",
+     "text": "Uma tarefa. Um teste. **Uma evidência.**",
+     "sub": ""
+    }
+   ]
+  }
+ }
+}
