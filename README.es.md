@@ -12,6 +12,8 @@ Este es un kit de estudio y práctica sobre inteligencia artificial para quienes
 
 [Guía en español](https://inematds.github.io/roteiro-ia-pratica/guia/es/).
 
+🎬 Video: https://www.youtube.com/watch?v=dp_MP4qWVZI
+
 ## Conocimiento y recursos
 
 Los siguientes documentos están en portugués:

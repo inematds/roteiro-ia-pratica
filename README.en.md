@@ -12,6 +12,8 @@ This artificial intelligence study and practice kit is for anyone who wants to u
 
 [English guide](https://inematds.github.io/roteiro-ia-pratica/guia/en/).
 
+🎬 Video: https://www.youtube.com/watch?v=dp_MP4qWVZI
+
 ## Knowledge and resources
 
 The following documents and resources are in Portuguese:

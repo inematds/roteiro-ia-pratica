@@ -12,6 +12,8 @@ Este é um kit de estudo e prática sobre inteligência artificial para quem que
 
 [Guia em português](https://inematds.github.io/roteiro-ia-pratica/guia/).
 
+🎬 Vídeo: https://www.youtube.com/watch?v=dp_MP4qWVZI
+
 ## Conhecimento e recursos
 
 - [Análise crítica e aproveitamentos](conhecimento/analise.md)
