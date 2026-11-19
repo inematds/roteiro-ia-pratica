@@ -41,7 +41,7 @@ The calculation includes review and correction time; incomplete cases remain pen
 
 ## Source and limitations
 
-An analysis of [The Last AI Roadmap Video You’ll Ever Watch, by Nick Saraev](https://www.youtube.com/watch?v=KjKlBvX9G7w). The practice resources are original and identified as supplementary material. We do not reproduce the full transcript or promise financial results.
+An analysis of a reference video on how to study and apply AI. The practice resources are original and identified as supplementary material. We do not reproduce the full transcript or promise financial results.
 
 The guide is available in Portuguese, English and Spanish. The detailed documents and resources are in Portuguese.
 

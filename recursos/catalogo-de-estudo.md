@@ -19,7 +19,7 @@ Use este índice para estudar por objetivo. “Identificado” significa citado 
 
 | Recurso | Origem | Para que serve | Estado |
 |---|---|---|---|
-| AI Harness: An In-Depth Explanation | Nick Saraev | Distinguir modelo e ambiente que coordena seu uso | Título aproximado da transcrição; link individual não conferido |
+| AI Harness: An In-Depth Explanation | Autor do vídeo de referência | Distinguir modelo e ambiente que coordena seu uso | Título aproximado da transcrição; link individual não conferido |
 | How I Use LLMs | Andrej Karpathy | Observar usos de um usuário experiente | Identificado; link individual não conferido |
 | State of AI Report 2026 | Citado como Air Street Capital | Panorama de pesquisa e indústria | Identificado; edição específica não conferida |
 | [Trends in AI](https://epoch.ai/trends) | Epoch AI | Indicadores e séries para acompanhar evolução | Página oficial localizada; consultar metodologia antes de citar números |
@@ -35,8 +35,8 @@ Use este índice para estudar por objetivo. “Identificado” significa citado 
 |---|---|---|---|
 | [AI Fluency](https://academy.claude.com/collections/ai-fluency) | Anthropic e colaboradores acadêmicos | Estrutura de colaboração com IA | Catálogo oficial localizado; não exige que esta base reproduza o curso |
 | Interactive Prompt Engineering Tutorial | Anthropic | Exercícios de formulação de pedidos | Citado; repositório individual não conferido nesta coleta |
-| $2.4 Million of Prompt Engineering Hacks in 53 Minutes | Nick Saraev | Técnicas apresentadas pelo autor | Identificado; valor no título é alegação comercial, não evidência desta base |
-| How I Would Start AI Consulting in 2026 / What I’d Learn Instead of AI Automation in 2027 | Nick Saraev | Perspectiva do autor sobre serviços | Títulos identificados; não assistidos nesta análise |
+| $2.4 Million of Prompt Engineering Hacks in 53 Minutes | Autor do vídeo de referência | Técnicas apresentadas pelo autor | Identificado; valor no título é alegação comercial, não evidência desta base |
+| How I Would Start AI Consulting in 2026 / What I’d Learn Instead of AI Automation in 2027 | Autor do vídeo de referência | Perspectiva do autor sobre serviços | Títulos identificados; não assistidos nesta análise |
 | [Do Things that Don’t Scale](https://paulgraham.com/ds.html) | Paul Graham | Entender usuários antes de escalar | Fonte original localizada |
 | [Requests for Startups](https://www.ycombinator.com/rfs) | Y Combinator | Ideias de problemas para investigar | Página oficial consultada; não equivale a demanda contratada |
 | [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) | Anthropic | Distinguir agentes de fluxos e escolher complexidade | Complemento INEMA; página primária consultada |

@@ -2,22 +2,22 @@
 
 ## Referência principal
 
-[The Last AI Roadmap Video You’ll Ever Watch — Nick Saraev](https://www.youtube.com/watch?v=KjKlBvX9G7w), duração 36min15s. Vídeo e descrição consultados em 19/10/2026. Download e transcrição de trabalho ficam fora do repositório público.
+Vídeo de referência sobre como estudar e aplicar IA, duração 36min15s. Vídeo e descrição consultados em 19/10/2026. Download e transcrição de trabalho ficam fora do repositório público.
 
 Capítulos informados na descrição (os tempos são pontos de navegação, não validação de cada afirmação):
 
 | Início | Tema |
 |---|---|
-| [00:00](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=0s) | Proposta de currículo de uma semana |
-| [01:20](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=80s) | História da IA |
-| [05:42](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=342s) | Funcionamento de modelos de linguagem |
-| [12:49](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=769s) | Camadas da infraestrutura e dos produtos |
-| [18:46](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=1126s) | Laboratórios e empresas |
-| [23:49](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=1429s) | Autoaperfeiçoamento recursivo |
-| [26:42](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=1602s) | Ferramentas para aprender |
-| [28:51](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=1731s) | Como formular pedidos |
-| [31:09](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=1869s) | Aplicações de negócio |
-| [34:55](https://www.youtube.com/watch?v=KjKlBvX9G7w&t=2095s) | Oportunidades e conclusão |
+| 00:00 | Proposta de currículo de uma semana |
+| 01:20 | História da IA |
+| 05:42 | Funcionamento de modelos de linguagem |
+| 12:49 | Camadas da infraestrutura e dos produtos |
+| 18:46 | Laboratórios e empresas |
+| 23:49 | Autoaperfeiçoamento recursivo |
+| 26:42 | Ferramentas para aprender |
+| 28:51 | Como formular pedidos |
+| 31:09 | Aplicações de negócio |
+| 34:55 | Oportunidades e conclusão |
 
 ## Apoio primário consultado
 

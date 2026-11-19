@@ -1,6 +1,6 @@
 # Roteiro IA na prática
 
-Base educacional derivada da análise do vídeo KjKlBvX9G7w. Autor e committer: inematds <inematds@gmail.com>.
+Base educacional derivada da análise de um vídeo de referência. Autor e committer: inematds <inematds@gmail.com>.
 Leia context/overview.md, context/current-state.md e tasks/current.md antes de continuar.
 Não apresentar afirmações do vídeo como fatos verificados; separar fonte, interpretação e exercício autoral.
 Não versionar vídeo original, transcrição integral de terceiros, credenciais ou mídias pesadas.

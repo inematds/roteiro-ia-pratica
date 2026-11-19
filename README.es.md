@@ -41,7 +41,7 @@ El cálculo incluye revisión y corrección; los casos incompletos quedan pendie
 
 ## Origen y límites
 
-Análisis del vídeo [The Last AI Roadmap Video You’ll Ever Watch, de Nick Saraev](https://www.youtube.com/watch?v=KjKlBvX9G7w). Los recursos de práctica son originales y están identificados como complementos. No reproducimos la transcripción íntegra ni prometemos resultados económicos.
+Análisis de un vídeo de referencia sobre cómo estudiar y aplicar la IA. Los recursos de práctica son originales y están identificados como complementos. No reproducimos la transcripción íntegra ni prometemos resultados económicos.
 
 La guía tiene versiones PT/EN/ES. Los documentos detallados y los recursos están en portugués.
 

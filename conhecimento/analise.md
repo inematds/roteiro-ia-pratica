@@ -1,6 +1,6 @@
 # Análise — um roteiro para compreender e aplicar IA
 
-Referência: [The Last AI Roadmap Video You’ll Ever Watch, Nick Saraev](https://www.youtube.com/watch?v=KjKlBvX9G7w). Análise em 19/10/2026, a partir da transcrição local completa e de uma folha de quadros distribuídos pelo vídeo. O reconhecimento automático pode errar nomes próprios; títulos e referências foram normalizados quando identificáveis. Não foi feita uma auditoria histórica ou comercial de todas as afirmações.
+Referência: vídeo de referência sobre como estudar e aplicar IA. Análise em 19/10/2026, a partir da transcrição local completa e de uma folha de quadros distribuídos pelo vídeo. O reconhecimento automático pode errar nomes próprios; títulos e referências foram normalizados quando identificáveis. Não foi feita uma auditoria histórica ou comercial de todas as afirmações.
 
 ## O que o conteúdo entrega
 
